@@ -36,6 +36,6 @@ This dashboard is designed to answer the following questions:
 ![image](https://github.com/user-attachments/assets/8a30979d-5590-4639-829f-e2ce3eb7da80)
 
 
-
+##Link to Tableau Public Dashboard - https://public.tableau.com/app/profile/aviral.agarwal6757/viz/Amozon_Prime_Dashboard/Dashboard
 
 
